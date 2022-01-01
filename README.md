@@ -1,7 +1,13 @@
 # Go Peeps
 A repo to track the progress of this project.
+## Data & Branding
+- [ ] Start curating the data in proper format.
+- [ ] Make different logo
+- [ ] Choose a theme for the entire application.
+- [ ] Learn about Domain and Hosting and purchase one.
 
-## Angela Yu Web Developement
+
+## Learning Web Developement 
 - [ ] API
 - [ ] Dice Game
 - [ ] Simon Game

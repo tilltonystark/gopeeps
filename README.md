@@ -1,5 +1,33 @@
 # Go Peeps
 A repo to track the progress of this project.
+## Topics
+- [ ] UI/UX Design
+  - [ ] Udacity Notes
+  - [ ] Designwings
+  - [ ] NN Group
+- [ ] Start Up
+  - [ ] How to Start A Start Up Ankur Warikoo
+  - [ ] Y Combinator Series
+  - [ ] Books (Will mention later)
+  - [ ] TEDx Talks + YouTube
+- [ ] Graphic Design
+- [ ] Web DEvelopement
+- [ ] Android Development
+- [ ] IOS Development
+- [ ] Robotics
+- [ ] Data Science
+- [ ] AI & ML
+- [ ] Flying Car
+- [ ] Self Driving Car
+- [ ] GSOC
+- [ ] ACM ICPC
+- [ ] MLH Fellowship
+- [ ] Other Different Fellowships
+- [ ] Top Campus Ambassador Programs
+- [ ] Freelancing
+- [ ] Trading + Stocks
+- [ ] Communication Skills
+----
 ## Data & Branding
 - [ ] Start curating the data in proper format.
 - [ ] Make different logo

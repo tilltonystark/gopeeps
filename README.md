@@ -1,4 +1,4 @@
-# Go Peeps
+# Go Peeps 🚀
 A repo to track the progress of this project.
 ## Topics
 - [ ] UI/UX Design

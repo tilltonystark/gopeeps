@@ -1,5 +1,5 @@
 # Go Peeps 🚀
-A repo to track the progress of this project.
+Place where you'll find different resources related to college life and engineering. Below I'd listed all the topics in my mind right now!
 ## Topics
 - [ ] UI/UX Design
   - [ ] Udacity Notes

@@ -72,4 +72,7 @@ Place where you'll find different resources related to college life and engineer
 ### - [ ] Hifi Wireframe
 ### - [ ] Start Coding...
 
-
+====
+## Issues
+- It may take too my much time to design & write the content.
+- Coding part might be much tougher than I thought
